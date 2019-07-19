@@ -1,0 +1,83 @@
+*{
+    margin:0px;
+    padding: 0px;
+
+}
+.container{
+        width: 1140px;
+        margin: 0 auto;
+}
+.content{
+    width: 100%;
+    float: left;
+    margin-top:150px;
+    background: url(../img/BG2.jpg);
+    background-size:cover;
+    background-repeat:no-repeat; 
+}
+
+.sec-content {
+    width: 60%;
+    float: left;
+    text-align: left;
+    color: black;
+    padding: 80px 0px;
+}
+.sec-content h1{
+    font-size:2em;
+}
+.sec-content{
+    font-size: 30px;
+}
+
+
+.sec-content ul{
+    list-style: none;
+    font-size: 25px;
+}
+.sec-content ul li{
+    padding: 5px;
+}
+.btn-one{
+
+    color: white;
+    border-radius: 50px;
+    background-color:#3197E9;
+    padding: 12px 20px;
+    font-weight: bold;
+    border:none;
+}
+
+.Regestration {
+    width: 40%;
+    float: left;
+    text-align: center;
+    background-color: #3197E9;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    margin-top:95px;
+}
+.Regestration h1{
+    padding-top: 50px;
+    font-size: 2em;
+}
+.Regestration p{
+    padding-top:20px;
+    font-size: 25px;
+    margin-bottom: 10px;
+
+}
+.form-controll{
+
+        width: 89%;
+        padding: 10px 8px;
+        margin:8px 0px;
+        /* border-radius: 10px; */
+        background: white;
+        border: none;
+    }
+
+.btn-two{
+    color: blue;
+    
+}
